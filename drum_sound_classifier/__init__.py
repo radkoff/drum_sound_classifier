@@ -1,0 +1,1 @@
+DRUM_TYPES = ['hat', 'tom', 'ride', 'open', 'kick', 'bongo', 'clap', 'snare', 'rim', 'snap', 'crash', 'shaker']
